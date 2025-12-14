@@ -1,2 +1,2 @@
 # hex-auto-patcher
-Find pattert and replace in binary file
+Find pattern and replace in binary file
